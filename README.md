@@ -21,6 +21,5 @@ web App demo link[  Demo](https://markdownlivepreview.com/).
 - ReactJS + хуки
 - React Router
 - Axios
-- SCSS
 - React Context
 - React Skeleton
