@@ -1,0 +1,40 @@
+.errorOrders {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 200px 0;
+}
+.errors {
+  width: 290px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 30px;
+  }
+  h2 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 10px;
+  }
+  p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #000;
+    opacity: 0.4;
+    margin-bottom: 40px;
+  }
+}
+.arrowBtn{
+  margin-bottom: 40px;
+  cursor: pointer;  
+}

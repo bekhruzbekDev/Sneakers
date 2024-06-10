@@ -1,0 +1,19 @@
+#bookMarkTitle {
+    margin-bottom: 40px;
+  }
+  .bookMarkTitle{
+    display: flex;
+    align-items: center;
+    gap: 21px;
+  }
+  
+  .buttons {
+    border: 1px solid #f2f2f2;
+    border-radius: 8px;
+    width: 35px;
+    height: 35px;
+    background: #fff;
+    transform: rotate(180deg);
+    margin-top: -40px;
+  }
+  
