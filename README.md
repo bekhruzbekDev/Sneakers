@@ -15,3 +15,12 @@
 ## Links
 
 web App demo link[  Demo](https://markdownlivepreview.com/).
+
+**Stack:**
+
+- ReactJS + хуки
+- React Router
+- Axios
+- SCSS
+- React Context
+- React Skeleton
